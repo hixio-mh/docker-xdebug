@@ -3,7 +3,7 @@
 #
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
-FROM php:7.1-alpine
+FROM php:7.3.31-alpine
 
 LABEL repository="https://github.com/MilesChou/docker-xdebug"
 LABEL homepage="https://github.com/MilesChou/docker-xdebug"
